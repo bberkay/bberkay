@@ -9,7 +9,6 @@ https://img.shields.io/badge/javascript-%23202020.svg?style=for-the-badge&logo=j
 ![PHP](https://img.shields.io/badge/php-%23202020.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23202020.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-202020?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-202020?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-202020?style=for-the-badge&logo=selenium&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23202020.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23202020.svg?style=for-the-badge&logo=mongodb&logoColor=white)
