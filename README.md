@@ -7,9 +7,7 @@ https://img.shields.io/badge/javascript-%23202020.svg?style=for-the-badge&logo=j
 ![TypeScript](https://img.shields.io/badge/typescript-%23202020.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23202020.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23202020.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23202020.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-202020?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-202020?style=for-the-badge&logo=selenium&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23202020.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23202020.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <hr>
