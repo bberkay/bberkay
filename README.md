@@ -11,7 +11,7 @@ https://img.shields.io/badge/javascript-%23202020.svg?style=for-the-badge&logo=j
 ![MySQL](https://img.shields.io/badge/mysql-%23202020.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23202020.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <hr>
-<p align="center"><i><a href="mailto:berkaykayaforbusiness@outlook.com" target="_blank">berkaykayaforbusiness@outlook.com</a></i></p>
+<h5 align="center"><a href="mailto:berkaykayaforbusiness@outlook.com">berkaykayaforbusiness@outlook.com</a></h5> 
 
 
 <!--
